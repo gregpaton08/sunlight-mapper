@@ -1,0 +1,8 @@
+*.pth
+venv/
+*.jpg
+*.heif
+*.ckpt
+*.txt
+!requirements.txt
+.DS_Store
